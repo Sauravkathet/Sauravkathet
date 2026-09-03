@@ -1,20 +1,4 @@
-<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sauravkathet&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sauravkathet&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sauravkathet&theme=github_dark" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sauravkathet&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sauravkathet&theme=github_dark&utcOffset=5.75" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sauravkathet&theme=dark&hide_border=true" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sauravkathet&theme=react-dark&hide_border=true" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sauravkathet&theme=darkhub&no-frame=true&row=1&column=6" width="100%"/>
-
-<br/>
 
 # Hi 👋 I'm Saurav
 
